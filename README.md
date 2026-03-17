@@ -345,11 +345,13 @@ Prohibited Use:
 
 ## ⭐ Star History
 
-<p align="center">
-  <a href="https://star-history.com/#zeennxx/phishx&Date">
-    <img src="https://api.star-history.com/svg?repos=zeennxx/phishx&type=Date" alt="Star History Chart" width="80%">
-  </a>
-</p>
+<a href="https://www.star-history.com/?repos=zeennxx%2Fphishx&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=zeennxx/phishx&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=zeennxx/phishx&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=zeennxx/phishx&type=date&legend=top-left" />
+ </picture>
+</a>
 
 ---
 
