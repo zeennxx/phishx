@@ -201,10 +201,11 @@ python phishx.py
 
 ### **Author:** zennx
 
-```
-• GitHub:   https://github.com/zeennxx
-• Facebook: https://web.facebook.com/Zennnxx/
-```
+• <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="16"> **GitHub:** [@zeennxx](https://github.com/zeennxx)
+
+• <img src="https://facebook.com/favicon.ico" width="16"> **Facebook:** [@Zennnxx](https://web.facebook.com/Zennnxx/)
+
+---
 
 ### Community Guidelines
 
