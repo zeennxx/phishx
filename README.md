@@ -11,7 +11,7 @@
 
 <p align="center">
   <b>🚀 The Most Advanced Open-Source Phishing Framework</b><br>
-  <i>20 Premium Templates • Real-Time Website Cloning • Cross-Platform • Auto-Tunneling</i>
+  <i>20 Templates •  Website Cloning • Cross-Platform • Auto-Tunneling</i>
 </p>
 
 <p align="center">
