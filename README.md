@@ -1,7 +1,7 @@
 # 🎣 PHISHX - Ultimate Phishing Framework
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-4.0.0-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-1.0.0-brightgreen?style=for-the-badge">
   <img src="https://img.shields.io/badge/Python-3.6%2B-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS%20%7C%20Termux-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/License-GPL%20v3-red?style=for-the-badge">
